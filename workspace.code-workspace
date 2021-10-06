@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Advanced DSA"
+		},
+		{
+			"path": "C:\\Users\\chintoo\\Desktop\\Portfolio"
+		},
+		{
+			"path": "..\\Pepcoding"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "Assignment-4"
+	}
+}
