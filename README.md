@@ -1,3 +1,3 @@
 # C-Fundamentals
 
-This repository have progrmas on C++ and OOPS Concepts
+This repository have programs on C++ and OOPS Concepts
